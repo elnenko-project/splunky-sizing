@@ -1,0 +1,9 @@
+Splunk Sizing Calculator
+Copyright 2026 elnenko-project
+
+This product includes software developed as an open-source project.
+
+Les valeurs de reference Splunk (compression, reference hardware, IOPS, etc.)
+proviennent de la documentation officielle Splunk et de ressources communautaires
+(Splunk Lantern, Splunk Community). Splunk est une marque de Cisco / Splunk LLC.
+Ce projet n'est ni affilie ni endosse par Splunk.
